@@ -1,0 +1,13 @@
+[project]
+name = "ndp-pdf-metadata-agent"
+version = "0.1.0"
+description = "Add your description here"
+requires-python = ">=3.12"
+dependencies = [
+    "beautifulsoup4>=4.14.3",
+    "jsonschema>=4.26.0",
+    "pypdf>=6.7.0",
+    "requests>=2.32.5",
+    "streamlit>=1.54.0",
+    "xmltodict>=1.0.3",
+]
