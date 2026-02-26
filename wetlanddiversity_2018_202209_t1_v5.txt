@@ -1,0 +1,17 @@
+Look for complete geospatial metadata in this layer's associated xml document available from the download link
+
+
+* Metric Name: Wetland Diversity  
+
+* Tier: 1  
+
+* Data Vintage: 06/2018   
+
+* Unit Of Measure: Thematic  
+
+* Metric Definition and Relevance: This data set represents the extent, approximate location, and type of wetlands and deepwater habitats in California. These data delineate the areal extent of wetlands and surface waters as defined by Cowardin et al. (1979).  
+
+* Creation Method: Downloaded from the National Wetlands Inventory (NWI), polygon converted to 30 meter raster. For more information see [https://www.fws.gov/program/national-wetlands-inventory. ](https://www.fws.gov/program/national-wetlands-inventory)  
+
+* Credits: The National Wetlands Inventory, US Fish & Wildlife Service (USFWS)   
+
