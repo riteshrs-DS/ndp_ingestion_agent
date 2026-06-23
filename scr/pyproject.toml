@@ -1,13 +1,14 @@
 [project]
-name = "ndp-pdf-metadata-agent"
+name = "ndpui"
 version = "0.1.0"
-description = "Add your description here"
-requires-python = ">=3.12"
+requires-python = ">=3.14"
 dependencies = [
-    "beautifulsoup4>=4.14.3",
-    "jsonschema>=4.26.0",
-    "pypdf>=6.7.0",
-    "requests>=2.32.5",
-    "streamlit>=1.54.0",
-    "xmltodict>=1.0.3",
+    "lxml>=5.0.0",
+    "pandas>=2.0.0",
+    "pdfplumber>=0.10.0",
+    "pypdf>=4.0.0",
+    "python-dotenv>=1.2.2",
+    "requests>=2.31.0",
+    "streamlit>=1.32.0",
+    "xmltodict>=0.13.0",
 ]
